@@ -1,2 +1,24 @@
-change
-tes test
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title and Paragraph Example</title>
+    <style>
+        /* A little styling to emphasize the size difference */
+        h1 {
+            font-size: 3rem; /* Makes the title extra large */
+            margin-bottom: 0.5rem;
+        }
+        p {
+            font-size: 1.1rem; /* Keeps the paragraph readable but secondary */
+            color: #555;      /* Softens the text color slightly */
+        }
+    </style>
+</head>
+<body>
+
+    <h1> Aidan Mistry</h1>
+    <p>Aidan Mistry is a Dublin University Student</p>
+
+</body>
+</html>
